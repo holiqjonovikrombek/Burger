@@ -1,0 +1,65 @@
+.ona{
+    background-image: url(./Hero\ area.png);
+    width: 1600px;
+height: 886.17px;
+top: -0.17px;
+
+}
+.list{
+    width: 1143px;
+height: 323px;
+top: 1001px;
+border-radius: 10px, 10px, 0px, 0px;
+margin-left: 160px;
+background: #1C1C1C;
+
+}
+.div{
+    width: 1600px;
+    height: 350px;
+    background-color: #1C1C1C;
+}
+.order{
+    width: 1600px;
+height: 543px;
+top: 1425.83px;
+
+}
+.pro{
+    width: 1600px;
+    height: 1500px;
+    background-color:#1C1C1C ;
+    
+}
+.img1{
+
+width: 1140px;
+height: 630px;
+top: 2118.83px;
+margin-left: 230px;
+
+}
+.img2{
+    width: 851px;
+    height: 360.26px;
+    top: 2895.02px;
+    margin-left: 398px;
+ margin-top: 300px;   
+}
+.dw{
+    width: 1600px;
+height: 170px;
+top: 3450px;
+
+}
+.f{
+    width: 1600px;
+height: 381px;
+top: 3621px;
+
+}
+@media (max-width: 768px){
+.ona{
+width: 788px;
+}
+}
